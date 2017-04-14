@@ -1,3 +1,44 @@
+# KnowledgeBase
+
+**KnowledgeBase** is an article repository built with Zend 2 Framework. Users can add articles and categories. Users can also edit, delete and view the articles and categories.
+
+* Features/Technologies: 
+  * Zend 2 Framework
+  * MVC, PHP OOP, PHPMyAdmin
+  * MySQL CRUD, Superglobals (GET, POST)
+
+## Version
+1.0.0
+
+## Live Demo
+ [KnowledgeBase](http://jyotsnasingh.com/projects/Zend/Kbase/public/)
+
+
+## Usage
+
+**Home** | **List Articles**
+--- | ---
+Home Page | List Articles
+![alt text](https://github.com/Jyotsna-Singh/Zend-KnowledgeBase/blob/master/public/img/home.PNG)  | ![alt text](https://github.com/Jyotsna-Singh/Zend-KnowledgeBase/blob/master/public/img/list-articles.PNG)
+
+**View Article** | **Add Article**
+--- | --- 
+View Article | Add Article*  
+![alt text](https://github.com/Jyotsna-Singh/Zend-KnowledgeBase/blob/master/public/img/view-article.PNG)  | ![alt text](https://github.com/Jyotsna-Singh/Zend-KnowledgeBase/blob/master/public/img/add-article.PNG) 
+
+**List Categories** | **View Category**
+--- | --- 
+List Categories | View Category  
+![alt text](https://github.com/Jyotsna-Singh/Zend-KnowledgeBase/blob/master/public/img/list-categories.PNG)  | ![alt text](https://github.com/Jyotsna-Singh/Zend-KnowledgeBase/blob/master/public/img/view-category.PNG) 
+
+## Vendors
+Zend - [https://framework.zend.com/](https://framework.zend.com/)  
+ 
+
+## License
+MIT License
+
+
 ZendSkeletonApplication
 =======================
 
