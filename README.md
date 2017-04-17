@@ -1,4 +1,4 @@
-# KnowledgeBase
+# ![alt tag](https://github.com/Jyotsna-Singh/Zend-KnowledgeBase/blob/master/public/img/logo.PNG)
 
 **KnowledgeBase** is an article repository built with Zend 2 Framework. Users can add articles and categories. Users can also edit, delete and view the articles and categories.
 
@@ -10,8 +10,8 @@
 ## Version
 1.0.0
 
-## Live Demo
- [KnowledgeBase](http://jyotsnasingh.com/projects/Zend/Kbase/public/)
+## Live Demo - KnowledgeBase
+ [![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/green-button.PNG)](http://jyotsnasingh.com/projects/Zend/Kbase/public/)
 
 
 ## Usage
